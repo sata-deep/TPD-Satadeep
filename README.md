@@ -5,8 +5,7 @@ later it will be updated for MAC and windows.
 Download the Application file. Change the permissions (in bash you may issue: chmod +x TPD.run)
 
 (Written by :
-Satadeep Bhattacharjee
-IKST, Bangalore
-May, 2018
+Satadeep Bhattacharjee,
+IKST, Bangalore,
 email: satadeep.bhattacharjee@ikst.res.in
 )
