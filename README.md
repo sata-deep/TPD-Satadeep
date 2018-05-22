@@ -4,7 +4,9 @@ Once initial coverage, heating rate, desorption energy, temperature range etc ar
 later it will be updated for MAC and windows.
 Download the Application file. Change the permissions (in bash you may issue: chmod +x TPD.run)
 
-========================
+(Written by :
 Satadeep Bhattacharjee
 IKST, Bangalore
 May, 2018
+email: satadeep.bhattacharjee@ikst.res.in
+)
